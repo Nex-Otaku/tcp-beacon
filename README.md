@@ -2,7 +2,7 @@
 
 Simple TCP server for network debugging.
 
-![tcp-beacon JPG](https://raw.githubusercontent.com/Nex-Otaku/tcp-beacon/master/img/screenshot.png)
+![tcp-beacon PNG](https://raw.githubusercontent.com/Nex-Otaku/tcp-beacon/master/img/screenshot.png)
 
 ## Features
 
