@@ -1,0 +1,23 @@
+{
+  "name": "@nex-otaku/tcp-beacon",
+  "version": "1.0.0",
+  "description": "Simple TCP server for network debugging",
+  "main": "app/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tcp-beacon.js"
+  },
+  "preferGlobal": true,
+  "bin": "./tcp-beacon.js",
+  "keywords": [
+    "tcp",
+    "server",
+    "tool"
+  ],
+  "author": "Nex Otaku",
+  "license": "MIT",
+  "dependencies": {
+    "net": "^1.0.2",
+    "yargs": "^16.0.3"
+  }
+}
